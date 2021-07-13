@@ -4,7 +4,7 @@
     {
         public string DoWork()
         {
-            return "Lib1 v6 branch a";
+            return "Lib1 v7 branch a";
         }
     }
 }
