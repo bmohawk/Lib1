@@ -4,7 +4,7 @@
     {
         public string DoWork()
         {
-            return "Lib1 v8 branch a from main1 merged with direct changes to Lib1";
+            return "Lib1 v9";
         }
     }
 }
